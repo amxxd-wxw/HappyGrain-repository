@@ -1,4 +1,4 @@
-# HappyGrain-repository
+# 最优化理论课程作业
 ## time
 2024年10月30日
 ## 内容
